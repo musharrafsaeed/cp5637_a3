@@ -1,0 +1,485 @@
+<!DOCTYPE HTML>
+<html> 
+<head> 
+<title>MIDDLE ROAD VILLAGE SEAFOOD TAKE AWAY</title> 
+<meta content="text/html; charset=utf-8"    http-equiv="Content-Type" /> 
+
+
+<!-- dropdown/css --> 
+<title>CSS Dropdown Menu</title>
+  
+<link href="style.css" rel="stylesheet" >
+<!--End of dropdown/css --> 
+
+<style type="text/css">
+/* ------------ Page Background ------------ */
+body {   font-family: arial, sans-serif; }
+body {   font-family: arial, sans-serif;   background-color: white; }
+/* ------------ Page Wrapper  ------------ */
+div#wrapper {
+   width: 996px;   
+   background-color:gray; 
+   margin-left: auto; 
+   margin-right: auto;  
+   border: solid thin black } 
+div#header { 
+   width: 997px;   
+   height: 95px;
+   background-image: url(logo22.jpg);
+   } 
+   /* ------------ Header Text ------------ */
+ h1.head, h3.subhead {
+	font-family: georgia, serif;  
+	margin-left: 20px;  
+	color: #613838; 
+ }
+ h1.head {  
+	font-size: 2.25em;  
+	padding-top: 15px;
+}
+h3.subhead { 
+  margin-top: -20px;  
+  letter-spacing: 1px;
+  } 
+  /* ------------ Navigation Bar------------ */ 
+  ul#navlist li { 
+  display: inline;   
+  list-style-type: none;
+   padding-right: 30px; 
+  }
+  ul#navlist { 
+  background-color: #C71585;
+  margin-top: -5px;
+  padding: 5px 5px 5px 20px;
+  } 
+  ul#navlist li a {
+	color:white; 
+	text-decoration: none; 
+	font-size: .85em;
+	}
+	ul#navlist li a:hover {color: #fff;}
+  
+/* Brown: #613838 Red: #e32026 Green: #93d4cd */
+
+
+/* ------------ Page Columns------------ */ 
+div#leftcol {   
+	float:left;  
+	width: 190px;   
+	margin-left: 2px; 
+}
+
+div#maincol {   
+	float:left;  
+	width: 580px;   
+	margin-left: 15px;   
+	margin-right: 15px; 
+}
+
+div#rightcol {  
+	width: 156px;   
+	float:left;   
+	margin-right: 2px;
+}
+div#footer {   
+	background-color: #C71585;   
+	height: 20px;   
+	clear: both;  
+}
+/* ------------ Small Feature Boxes ------------ */ 
+div.smfeature { 
+	width: 190px;   
+	height: auto;
+	border: thin solid black;   
+	margin-bottom: 10px;
+}
+div.smfeature h4 { 
+	font-family: arial, sans-serif;  
+	font-size: 85%;  
+	color: #fff;   
+	background: #C71585;
+   text-align: center;   
+   letter-spacing: 2px;   
+   padding: .5em;  
+   margin-top: 0px; 
+}
+div.smfeature p {   
+	font-family: arial, sans-serif;   
+	font-size: 75%;  
+	color: #000;   
+	margin: 10px; 
+}
+div.smfeature img {   
+	float: left;  
+	margin-right: 5px;
+}
+/* ------------ Feature Article ------------*/
+div#maincol p { 
+	font-size: 85%; 
+	line-height: 1.25em; 
+}
+/* ------------ Feature Article ------------*/
+div#maincol p {  
+	font-size: 85%;   
+	line-height: 1.25em;
+}
+img.feature2 {   
+float: left;  
+margin-right: 5px;
+}
+
+</style> 
+
+
+	
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+
+
+
+
+<body>
+
+
+
+<div id="wrapper">
+<!-- Open Wrapper -->
+	<!-- Header --> 
+	<div id="header">
+	<h1 class="head"> 
+
+	<font color=white style="background-image: url(http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/blackheartglitter03_tlg.gif); font-size: 27px;">MIDDLE ROAD VILLAGE SEAFOOD TAKE AWAY</font>	
+	</h1> 
+	<h3 class="subhead"> 
+		 
+	</h3>
+	</div>
+
+
+
+
+
+	
+	
+	<!-- Navigation --> 
+	
+<ul class="main-nav">
+ 
+<li><a href="index.html">Home</a></li>
+     
+<li class="dropdown">
+        
+<a href="#">Menu</a>
+        
+<ul class="drop-nav">
+          
+<li><a href="women11.html">Hot Food</a></li>
+          
+<li><a href="men11.html">Seafood</a></li>
+
+<li><a href="kids11.html">Burgers</a></li>
+<li><a href="women11.html">Breakfasts</a></li>
+          
+<li><a href="men11.html">Milk Shakes</a></li>
+
+<li><a href="kids11.html">Saefood Meal Deal</a></li>
+ 
+        
+         
+            
+</li>
+
+</ul>          
+<li><a href="mysupport1.html">Special deals</a></li>
+<li><a href="My_about us.html">About us</a></li>
+<li><a href="ContactUs.html">Contact Us</a></li>
+<li><a href="Registration.html">Registration</a></li> 
+<li><a href="login.php">Log-in</a></li> 
+            
+        
+</ul>
+  
+	<!-- Navigation End --> 
+
+
+
+		
+	
+
+<!-- Left Column -->
+	<div id="leftcol">
+	<div class="smfeature">
+	<h4>Hot Deals</h4> 
+	<p>
+	<img src="download.jpg" width="64" height="63" alt="Editorial Image" border="2" /> 
+	Women garments available here which covers all categories.All stock is avaialble with descounted price as compared all markert rates. Spacial descount for regular customers upto 70% off.
+	</p>
+	</div>
+	
+
+	<div class="smfeature"> 
+	<h4>Spacails Deals</h4> 
+	<p> 
+	<img src="10727244_564632690329628_719391785_n.jpg" width="64" height="79" alt="Dog Advice Image" border="2" />
+	The Shoping.com Clothing Store allows you to shop online for men's clothing with ease. Our wide selection of men's clothing is organized by brand, style, season, and price. Browse the curated selections in our men's clothing shops. </p>
+	</p>
+	</div>
+	
+	<div class="smfeature">
+	<h4>Lunch Special</h4>
+	
+	<p> <img src="11274375_1593586384253658_1745709732_n.jpg" width="64" height="83" alt="Reader Emails Image" border="2"  /> 
+	 While choosing something for your kids, you should keep a few factors like, colour, fabric, and design in mind. Find the suitable ones from various colours like beige, blue, black, brown, cream, and more. Choose from different types of fabric like cotton, denim, mesh, silk, and others.
+	</p>
+	</div>
+
+	</div>
+<!-- End of Left Column -->
+
+	
+<!-- Main Column -->
+	<div id="maincol">
+
+<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/c.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_0"/></li>
+		<li><img src="data1/images/ca.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_1"/></li>
+		<li><img src="data1/images/cc.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_2"/></li>
+		<li><img src="data1/images/ff.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_3"/></li>
+		<li><img src="data1/images/firdouslawn4.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_4"/></li>
+		<li><img src="data1/images/firdouslawn23.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_5"/></li>
+		<li><img src="data1/images/fr.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_6"/></li>
+		<li><img src="data1/images/newsummeroutfits2015westernwearforboysgirls4.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_7"/></li>
+		<li><a href="http://wowslider.com"><img src="data1/images/r.jpg" alt="wowslider" title="www.shopworld.com" id="wows1_8"/></a></li>
+		<li><img src="data1/images/robertocavallilawncollectionforkids20152.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows1_9"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/c.jpg" alt="www.shopworld.com"/>1</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/ca.jpg" alt="www.shopworld.com"/>2</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/cc.jpg" alt="www.shopworld.com"/>3</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/ff.jpg" alt="www.shopworld.com"/>4</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/firdouslawn4.jpg" alt="www.shopworld.com"/>5</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/firdouslawn23.jpg" alt="www.shopworld.com"/>6</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/fr.jpg" alt="www.shopworld.com"/>7</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/newsummeroutfits2015westernwearforboysgirls4.jpg" alt="www.shopworld.com"/>8</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/r.jpg" alt="www.shopworld.com"/>9</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data1/tooltips/robertocavallilawncollectionforkids20152.jpg" alt="www.shopworld.com"/>10</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">http://wowslider.net/</a> by WOWSlider.com v8.5</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+
+
+
+	<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. </p>
+	<p>Dog photoCras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. </p>
+	<hr/>
+	
+
+
+
+
+    
+
+
+   
+
+<img src="newstock.jpg" width="585" height="220" alt="pic" border="2" />
+      
+<p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p> 
+	
+
+
+
+
+</div>
+
+<!-- End of Main Column -->
+
+
+
+	
+<!-- Right Column -->
+<div id="rightcol">
+
+
+
+<canvas id="canvas" width="180" height="180"
+style="background-color:#C71585">
+</canvas>
+
+<script>
+var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
+var radius = canvas.height / 2;
+ctx.translate(radius, radius);
+radius = radius * 0.90
+setInterval(drawClock, 1000);
+
+function drawClock() {
+  drawFace(ctx, radius);
+  drawNumbers(ctx, radius);
+  drawTime(ctx, radius);
+}
+
+function drawFace(ctx, radius) {
+  var grad;
+  ctx.beginPath();
+  ctx.arc(0, 0, radius, 0, 2*Math.PI);
+  ctx.fillStyle = 'white';
+  ctx.fill();
+  grad = ctx.createRadialGradient(0,0,radius*0.95, 0,0,radius*1.05);
+  grad.addColorStop(0, '#333');
+  grad.addColorStop(0.5, 'gray');
+  grad.addColorStop(1, '#333');
+  ctx.strokeStyle = grad;
+  ctx.lineWidth = radius*0.1;
+  ctx.stroke();
+  ctx.beginPath();
+  ctx.arc(0, 0, radius*0.1, 0, 2*Math.PI);
+  ctx.fillStyle = '#333';
+  ctx.fill();
+}
+
+function drawNumbers(ctx, radius) {
+  var ang;
+  var num;
+  ctx.font = radius*0.15 + "px arial";
+  ctx.textBaseline="middle";
+  ctx.textAlign="center";
+  for(num = 1; num < 13; num++){
+    ang = num * Math.PI / 6;
+    ctx.rotate(ang);
+    ctx.translate(0, -radius*0.85);
+    ctx.rotate(-ang);
+    ctx.fillText(num.toString(), 0, 0);
+    ctx.rotate(ang);
+    ctx.translate(0, radius*0.85);
+    ctx.rotate(-ang);
+  }
+}
+
+function drawTime(ctx, radius){
+    var now = new Date();
+    var hour = now.getHours();
+    var minute = now.getMinutes();
+    var second = now.getSeconds();
+    //hour
+    hour=hour%12;
+    hour=(hour*Math.PI/6)+
+    (minute*Math.PI/(6*60))+
+    (second*Math.PI/(360*60));
+    drawHand(ctx, hour, radius*0.5, radius*0.07);
+    //minute
+    minute=(minute*Math.PI/30)+(second*Math.PI/(30*60));
+    drawHand(ctx, minute, radius*0.8, radius*0.07);
+    // second
+    second=(second*Math.PI/30);
+    drawHand(ctx, second, radius*0.9, radius*0.02);
+}
+
+function drawHand(ctx, pos, length, width) {
+    ctx.beginPath();
+    ctx.lineWidth = width;
+    ctx.lineCap = "round";
+    ctx.moveTo(0,0);
+    ctx.rotate(pos);
+    ctx.lineTo(0, -length);
+    ctx.stroke();
+    ctx.rotate(-pos);
+}
+</script>
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+ 
+
+
+
+<h2>Upto 70% off</h2> 
+
+
+
+
+		
+	
+<div class="smfeature">
+<h4>About Us</h4>
+	
+
+<marquee behavior="scroll" direction="down" scrollamount="20">
+<img src="test5.jpg">
+<br>
+<img src="test3.jpg">
+<br>
+<img src="test4.jpg">
+<br>
+<img src="test2.jpg">
+<br>
+<img src="test4.jpg">
+<br>
+
+</marquee>
+
+
+
+
+
+<img src="aa.jpg" width="187" height="220" alt="pic" border="2" />
+	
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+<!-- End of Right Column -->
+
+
+
+
+
+
+<!-- Footer -->
+<div id="footer">
+</div>
+<!-- End Footer -->
+</div> <!-- Close Wrapper -->
+</body>
+</html>

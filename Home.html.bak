@@ -1,0 +1,441 @@
+<!DOCTYPE HTML>
+<html> 
+<head> 
+<title>Welcome TO Online Shoping!</title> 
+<meta content="text/html; charset=utf-8"    http-equiv="Content-Type" /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+/* ------------ Page Background ------------ */
+body {   font-family: arial, sans-serif; }
+body {   font-family: arial, sans-serif;   background-color: white; }
+/* ------------ Page Wrapper  ------------ */
+div#wrapper {
+   width: 960px;   
+   background-color: gray; 
+   margin-left: auto; 
+   margin-right: auto;  
+   border: solid thin black } 
+div#header { 
+   width: 960px;   
+   height: 95px;
+   background-image: url(headerpic1.jpg);
+   } 
+   /* ------------ Header Text ------------ */
+ h1.head, h3.subhead {
+	font-family: georgia, serif;  
+	margin-left: 20px;  
+	color: #613838; 
+ }
+ h1.head {  
+	font-size: 2.25em;  
+	padding-top: 15px;
+}
+h3.subhead { 
+  margin-top: -20px;  
+  letter-spacing: 1px;
+  } 
+  /* ------------ Navigation Bar------------ */ 
+  ul#navlist li { 
+  display: inline;   
+  list-style-type: none;
+   padding-right: 30px; 
+  }
+  ul#navlist { 
+  background-color: black;
+  margin-top: -5px;
+  padding: 5px 5px 5px 20px;
+  } 
+  ul#navlist li a {
+	color:#c6b29e; 
+	text-decoration: none; 
+	font-size: .85em;
+	}
+	ul#navlist li a:hover {color: #fff;}
+  
+/* Brown: #613838 Red: #e32026 Green: #93d4cd */
+
+
+/* ------------ Page Columns------------ */ 
+div#leftcol {   
+	float:left;  
+	width: 190px;   
+	margin-left: 2px; 
+}
+
+div#maincol {   
+	float:left;  
+	width: 580px;   
+	margin-left: 15px;   
+	margin-right: 15px; 
+}
+
+div#rightcol {  
+	width: 156px;   
+	float:left;   
+	margin-right: 2px;
+}
+div#footer {   
+	background-color: black;   
+	height: 20px;   
+	clear: both;  
+}
+/* ------------ Small Feature Boxes ------------ */ 
+div.smfeature { 
+	width: 190px;   
+	height: auto;
+	border: thin solid black;   
+	margin-bottom: 10px;
+}
+div.smfeature h4 { 
+	font-family: arial, sans-serif;  
+	font-size: 85%;  
+	color: #fff;   
+	background: black;
+   text-align: center;   
+   letter-spacing: 2px;   
+   padding: .5em;  
+   margin-top: 0px; 
+}
+div.smfeature p {   
+	font-family: arial, sans-serif;   
+	font-size: 75%;  
+	color: #000;   
+	margin: 10px; 
+}
+div.smfeature img {   
+	float: left;  
+	margin-right: 5px;
+}
+/* ------------ Feature Article ------------*/
+div#maincol p { 
+	font-size: 85%; 
+	line-height: 1.25em; 
+}
+/* ------------ Feature Article ------------*/
+div#maincol p {  
+	font-size: 85%;   
+	line-height: 1.25em;
+}
+img.feature2 {   
+float: left;  
+margin-right: 5px;
+}
+
+</style> 
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+
+
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="css0/bootstrap.min.css">
+<script src="js0/jquery.min.js"></script>
+<script src="js0/bootstrap.min.js"></script>
+<link href="css/bootstrap.css" rel='stylesheet' type='css/text' />
+<link href="css/style.css" rel='stylesheet' type='css/text' />
+<link href="css/animate.css" rel='stylesheet' type='css/text' />
+<link href="fonts/css/font-awesome.min.css">
+<link rel="stylesheet" href="fonts/css/font-awesome.min.css"> <!--social icon including-->
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script>
+ new WOW().init();
+</script>
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+
+
+
+
+<body>
+
+
+
+<div id="wrapper"><!-- Open Wrapper -->
+	<!-- Header --> 
+	<div id="header">
+	<h1 class="head"> 
+
+		
+	</h1> 
+	<h3 class="subhead"> 
+		 
+	</h3>
+	</div>
+	
+	<!-- Navigation --> 
+	<ul id="navlist"> 
+		<li><a href=" ">Categories</a></li> 
+		<li><a href=" ">Check-out</a></li> 
+		<li><a href=" ">Shoing-Card</a></li> 
+		<li><a href=" ">Support-static</a></li> 
+		<li><a href=" ">Order Online</a></li> 
+		<li><a href="ContactUs.html ">Contact Us</a></li>  
+		
+<!-- Collect the nav links, forms, and other content for toggling -->
+   
+      <ul class="nav navbar-nav">
+        
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="visitor.html">Visitor Info</a></li>
+            <li><a href="animals.html">Animlas</a></li>
+            <li><a href="plants.html">Plants Gallery</a></li>
+            <li><a href="Hotel&ressorts.html">Resturent & Resorts</a></li>
+           
+          </ul>
+        </li>
+     
+</ul>
+
+
+
+
+
+
+
+  
+<div style="background-color:orange text-align:center">
+
+
+
+
+	
+
+
+
+	</ul>
+
+
+
+	<marquee behavior="scroll" direction="right" scrollamount="20">
+	
+	<img src="aa.jpg">
+	<img src="ab.jpg">
+	<img src="ac.jpg">
+	<img src="cc.jpg">
+	<img src="dd.jpg">
+	<img src="fff.jpg">
+	<img src="vv.jpg">
+	<img src="1.jpg">
+	<img src="2.jpg">
+	<img src="3.jpg">
+	<img src="aa.jpg">
+	<img src="ab.jpg">
+	
+	</marquee>	
+	
+
+	<!-- Left Column -->
+	<div id="leftcol">
+	<div class="smfeature">
+	<h4>Garments</h4> 
+	<p>
+	<img src="12g.jpg" width="64" height="63" alt="Editorial Image" border="2" /> 
+	Editorial Image Lorem ipsum dolor sit ame, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat. Aenean commodo ligula eget dolor.
+	</p>
+	</div>
+	<div class="smfeature"> 
+	<h4>Mens</h4> 
+	<p> <img src="zz.jpg" width="64" height="79" alt="Dog Advice Image" border="2" /><p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. </p>
+	<p>Dog photoCras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. </p>
+	
+	</p>
+	</div>
+	<div class="smfeature">
+	<h4>kids</h4>
+	
+	<p> <img src="t.jpg" width="64" height="83" alt="Reader Emails Image" border="2"  /> 
+	Reader Emails Image Lorem ipsum dolor sit ame, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat. Aenean commodo ligula eget dolor.
+	</p>
+	</div>
+
+	</div>
+
+	
+	<!-- Main Column -->
+	<div id="maincol">
+	<img src="2.jpg" width="580" height="158" alt="Dogs at Work Image" title="Dogs at Work Feature    Story" border="2"/> 
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/c.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_0"/></li>
+		<li><img src="data0/images/ca.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_1"/></li>
+		<li><img src="data0/images/cc.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_2"/></li>
+		<li><img src="data0/images/ff.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_3"/></li>
+		<li><img src="data0/images/firdouslawn4.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_4"/></li>
+		<li><img src="data0/images/firdouslawn23.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_5"/></li>
+		<li><img src="data0/images/fr.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_6"/></li>
+		<li><img src="data0/images/newsummeroutfits2015westernwearforboysgirls4.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_7"/></li>
+		<li><a href="http://wowslider.com/vi"><img src="data0/images/r.jpg" alt="slider" title="www.shopworld.com" id="wows0_8"/></a></li>
+		<li><img src="data0/images/robertocavallilawncollectionforkids20152.jpg" alt="www.shopworld.com" title="www.shopworld.com" id="wows0_9"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/c.jpg" alt="www.shopworld.com"/>1</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/ca.jpg" alt="www.shopworld.com"/>2</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/cc.jpg" alt="www.shopworld.com"/>3</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/ff.jpg" alt="www.shopworld.com"/>4</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/firdouslawn4.jpg" alt="www.shopworld.com"/>5</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/firdouslawn23.jpg" alt="www.shopworld.com"/>6</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/fr.jpg" alt="www.shopworld.com"/>7</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/newsummeroutfits2015westernwearforboysgirls4.jpg" alt="www.shopworld.com"/>8</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/r.jpg" alt="www.shopworld.com"/>9</span></a>
+		<a href="#" title="www.shopworld.com"><span><img src="data0/tooltips/robertocavallilawncollectionforkids20152.jpg" alt="www.shopworld.com"/>10</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">http://wowslider.net/</a> by WOWSlider.com v8.5</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. </p>
+	<p>Dog photoCras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. </p>
+	<hr/>
+	<p><img src="ac.jpg" width="108" alt="Dog photo" border="2" /><img src="ac.jpg" width="108" alt="Dog photo" border="2" /><img src="ac.jpg" width="108" alt="Dog photo" border="2" /><img src="ac.jpg" width="108" alt="Dog photo" border="2" /><img src="ac.jpg" width="108" alt="Dog photo" border="2" />Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+	<p>placeholder text</p> 
+	
+
+
+
+
+
+</div>
+
+
+
+
+
+				 
+
+
+
+
+
+
+
+
+
+	
+	<!-- Right Column -->
+	<div id="rightcol">
+	<h4>Search the Site</h4> 
+	<form method="get" action=" "> <p><input type="text" value="Enter search text..." maxlength="25" size="18" /></p> <p><input type="submit" /></p> </form>
+	
+
+<table align="right" width="150" border="6" bordercolor="pink">
+<tr>
+<td><a href="https://www.google.com" link="Black" vlink="black" alink="black"><font color="gray"><abbr title="GOOGLE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search</abbr></font></a>
+</td></tr></table>
+
+
+
+<img src="links_img.jpg" width="148" height="106" alt="Sponsored Links" title="Sponsored Links"    border="0" /> 
+	<p><a href=" ">70% Sales</a></p> 
+
+
+
+
+
+
+		
+	
+	<div class="smfeature">
+	<h4>Brands</h4>
+	
+
+
+
+<marquee behavior="scroll" direction="down" scrollamount="20">
+<img src="test5.jpg">
+<br>
+<img src="test2.jpg">
+<br>
+<img src="test3.jpg">
+<br>
+<img src="test4.jpg">
+<br>
+
+</marquee>
+
+
+
+	<img src="aa.jpg" width="121" height="176" alt="Next Month Image" border="2" />
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Footer --> 
+	<div id="footer">
+</div>
+</div> <!-- Close Wrapper -->
+
+
+</body> 
+
+</html>
+
